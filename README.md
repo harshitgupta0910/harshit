@@ -1,4 +1,3 @@
-![logo](https://github.com/harshitgupta0910/Harshit_gupta/blob/main/Harshit%20Gupta.png)
 
 <h1 align="center">Hi 👋, I'm Harshit Gupta</h1>
 
